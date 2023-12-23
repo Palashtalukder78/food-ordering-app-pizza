@@ -8,7 +8,7 @@ export default function Hero() {
         <h1 className="text-4xl font-semibold">
           Everything <br /> is Better with <br />a <span className="text-primary">Pizza</span>
         </h1>
-        <p className="my-4 text-gray-500 text-sm">
+        <p className="my-6 text-gray-500 text-sm">
           Pizza, dish of Italian origin consisting of a flattened disk of bread
           dough topped with some combination of olive oil, oregano, tomato,
           olives....
